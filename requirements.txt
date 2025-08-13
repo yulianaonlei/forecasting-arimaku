@@ -7,5 +7,5 @@ numpy
 scipy
 statsmodels
 matplotlib
-pmdarima==2.0.4
 scikit-learn
+pmdarima @ https://github.com/maciejkula/pmdarima-prebuilt-wheel/releases/download/2.0.4/pmdarima-2.0.4-cp310-cp310-manylinux2014_x86_64.whl
