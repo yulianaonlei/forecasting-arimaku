@@ -1,8 +1,11 @@
+Cython
+setuptools
+wheel
 streamlit
 pandas
 numpy
 scipy
 statsmodels
 matplotlib
-pmdarima
+pmdarima==2.0.4
 scikit-learn
